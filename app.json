@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Deep Focus",
+    "slug": "snack-12de3d6b-7f01-4d5c-8a18-de6f739d0a28",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Untitled.png",
+    "splash": {
+      "image": "./assets/Untitled.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+ "ios": {
+      "bundleIdentifier": "DavidJeffers.DeepFocus",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+   
+    "android": {
+ "package": "davidjeffers.deepfocus",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/Untitled.png"
+    }
+  }
+}
